@@ -2,7 +2,7 @@ This is a text-based re-enactment of Boromir's death scene from The Fellowship o
 
 The simulation uses [Dungeons and Dragons 3rd Edition][] rules.
 
-I originally implemented it in Python in 2003. In 2011, I ported it to HTML5.
+Originally implemented in Python in 2003. In 2011, it was ported it to HTML5 by toolness.
 
 The HTML5 version uses the [Application Cache][] to enable offline use, and has been tested on IE8, Opera, Chrome, Safari, Firefox, and iOS.
 
